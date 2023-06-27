@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../htmlDocs"
+		},
+		{
+			"path": "../Code Academy (trying CSE222 ag)"
+		},
+		{
+			"path": "../CSE017"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JourneyToHappiness"
+	}
+}
